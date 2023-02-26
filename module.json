@@ -2,7 +2,6 @@
 	"name": "abf-compendiums",
 	"title": "ABF Compendiums",
 	"version": "1.0.0",
-	"type": "compendium",
 	"authors": [
 		{
 			"name": "Julen Bordonaba"
