@@ -1,0 +1,52 @@
+{
+	"name": "abf-compendiums",
+	"title": "ABF Compendiums",
+	"version": "1.0.0",
+	"type": "compendium",
+	"authors": [
+		{
+			"name": "Julen Bordonaba"
+		},
+		{
+			"name": "Lui Sin"
+		},
+		{
+			"name": "Samox"
+		}
+	],
+	"description": "Module for Foundry VTT adding utils for ABF system",
+	"languages": [
+		{
+			"lang": "es",
+			"name": "Espa�ol",
+			"path": "languages/es.json"
+		}
+	],
+	"packs": [
+		{
+			"name": "LQCCN",
+			"label": "(ES) LQCCN",
+			"system": "animabf",
+			"path": "./packs/lqccn.db",
+			"type": "Actor"
+		}
+	],
+	"relationships": {
+		"requires": [
+			{
+				"id": "animabf",
+				"type": "system",
+				"manifest": "https://raw.githubusercontent.com/AnimaBeyondDevelop/AnimaBeyondFoundry/main/src/system.json",
+				"compatibility": {
+					"verified": "1.15.1"
+				}
+			}
+		]
+	},
+	"minimumCoreVersion": "0.8.8",
+	"compatibleCoreVersion": "9",
+	"system": [ "animabf" ],
+	"url": "https://github.com/JulenBordonaba/ABF-Utils",
+	"manifest": "https://github.com/JulenBordonaba/ABF-Utils/releases/latest/download/module.json",
+	"download": "https://github.com/JulenBordonaba/ABF-Utils/releases/latest/download/module.zip"
+}
