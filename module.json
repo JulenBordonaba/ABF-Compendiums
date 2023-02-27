@@ -23,10 +23,52 @@
 	],
 	"packs": [
 		{
+			"name": "Core Exxet",
+			"label": "(ES) Core Exxet",
+			"system": "animabf",
+			"path": "./packs/core-exxet.db",
+			"type": "Actor"
+		},
+		{
+			"name": "Dramatis Personae 1",
+			"label": "(ES) Dramatis Personae 1",
+			"system": "animabf",
+			"path": "./packs/dramatis-v1.db",
+			"type": "Actor"
+		},
+		{
+			"name": "Dramatis Personae 2",
+			"label": "(ES) Dramatis Personae 2",
+			"system": "animabf",
+			"path": "./packs/dramatis-v2.db",
+			"type": "Actor"
+		},
+		{
+			"name": "Gaia 1",
+			"label": "(ES) Gaia 1",
+			"system": "animabf",
+			"path": "./packs/gaia-1.db",
+			"type": "Actor"
+		},
+		{
+			"name": "Gaia 2",
+			"label": "(ES) Gaia 2",
+			"system": "animabf",
+			"path": "./packs/gaia-2.db",
+			"type": "Actor"
+		},
+		{
 			"name": "LQCCN",
 			"label": "(ES) LQCCN",
 			"system": "animabf",
 			"path": "./packs/lqccn.db",
+			"type": "Actor"
+		},
+		{
+			"name": "PWG",
+			"label": "(ES) PWG",
+			"system": "animabf",
+			"path": "./packs/pwg.db",
 			"type": "Actor"
 		}
 	],
