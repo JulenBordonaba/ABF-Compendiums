@@ -1,16 +1,13 @@
 {
 	"name": "abf-compendiums",
 	"title": "ABF Compendiums",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"authors": [
 		{
 			"name": "Julen Bordonaba"
 		},
 		{
 			"name": "Lui Sin"
-		},
-		{
-			"name": "Samox"
 		}
 	],
 	"description": "Module for Foundry VTT adding utils for ABF system",
@@ -69,6 +66,20 @@
 			"label": "(ES) PWG",
 			"system": "animabf",
 			"path": "./packs/pwg.db",
+			"type": "Actor"
+		},
+		{
+			"name": "Dravenor",
+			"label": "(ES) Dravenor",
+			"system": "animabf",
+			"path": "./packs/dravenor.db",
+			"type": "Actor"
+		},
+		{
+			"name": "Unclassified",
+			"label": "(ES) Unclassified",
+			"system": "animabf",
+			"path": "./packs/unclassified.db",
 			"type": "Actor"
 		}
 	],
