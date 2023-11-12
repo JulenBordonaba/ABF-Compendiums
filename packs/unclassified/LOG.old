@@ -1,4 +1,3 @@
-2023/11/07-19:47:58.057 42b4 Log #245: 0 ops saved to Table #246 OK
-2023/11/07-19:47:58.058 42b4 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\unclassified/000245.log: OK
-2023/11/07-19:47:58.111 42b4 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\unclassified/MANIFEST-000244: OK
-2023/11/07-19:47:58.170 42b4 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\unclassified; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2023/11/11-12:29:13.099 2330 Recovering log #258
+2023/11/11-12:29:13.219 2330 Delete type=0 #258
+2023/11/11-12:29:13.219 2330 Delete type=3 #257
