@@ -1,7 +1,11 @@
 {
 	"name": "abf-compendiums",
 	"title": "ABF Compendiums",
-	"version": "1.0.4",
+	"version": "1.0.5",
+	"compatibility": {
+		"minimum": "0.8.8",
+		"verified": "11"
+	},
 	"authors": [
 		{
 			"name": "Julen Bordonaba"
