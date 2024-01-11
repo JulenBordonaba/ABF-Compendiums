@@ -1,5 +1,7 @@
-2023/11/12-16:30:35.928 3444 Delete type=3 #1
-2023/11/12-16:34:42.615 618c Level-0 table #267: started
-2023/11/12-16:34:42.615 618c Level-0 table #267: 0 bytes OK
-2023/11/12-16:34:42.621 618c Delete type=0 #265
-2023/11/12-16:34:42.621 618c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2024/01/11-01:04:05.115 cc0 Log #269: 0 ops saved to Table #407 OK
+2024/01/11-01:04:05.116 cc0 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\gaia-2/000269.log: OK
+2024/01/11-01:04:05.116 cc0 Log #406: 0 ops saved to Table #408 OK
+2024/01/11-01:04:05.116 cc0 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\gaia-2/000406.log: OK
+2024/01/11-01:04:05.162 cc0 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\gaia-2/MANIFEST-000268: OK
+2024/01/11-01:04:05.164 cc0 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\gaia-2/MANIFEST-000405: OK
+2024/01/11-01:04:05.253 cc0 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\gaia-2; recovered 0 files; 0 bytes. Some data may have been lost. ****

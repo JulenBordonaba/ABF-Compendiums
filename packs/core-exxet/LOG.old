@@ -1,1 +1,8 @@
-2023/11/12-17:01:37.061 3444 Delete type=3 #1
+2024/01/11-01:04:04.059 4cb8 Log #6: 0 ops saved to Table #410 OK
+2024/01/11-01:04:04.059 4cb8 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet/000006.log: OK
+2024/01/11-01:04:04.059 4cb8 Log #409: 0 ops saved to Table #411 OK
+2024/01/11-01:04:04.059 4cb8 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet/000409.log: OK
+2024/01/11-01:04:04.061 4cb8 Table #5: 181 entries OK
+2024/01/11-01:04:04.120 4cb8 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet/MANIFEST-000004: OK
+2024/01/11-01:04:04.121 4cb8 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet/MANIFEST-000408: OK
+2024/01/11-01:04:04.170 4cb8 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet; recovered 1 files; 294666 bytes. Some data may have been lost. ****

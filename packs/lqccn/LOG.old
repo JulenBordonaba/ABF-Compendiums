@@ -1,1 +1,9 @@
-2023/11/12-17:03:34.192 3444 Delete type=3 #1
+2024/01/11-01:04:05.371 4bbc Log #6: 0 ops saved to Table #412 OK
+2024/01/11-01:04:05.372 4bbc Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn/000006.log: OK
+2024/01/11-01:04:05.372 4bbc Log #411: 0 ops saved to Table #413 OK
+2024/01/11-01:04:05.373 4bbc Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn/000411.log: OK
+2024/01/11-01:04:05.376 4bbc Table #5: 338 entries OK
+2024/01/11-01:04:05.379 4bbc Table #271: 343 entries OK
+2024/01/11-01:04:05.428 4bbc Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn/MANIFEST-000004: OK
+2024/01/11-01:04:05.429 4bbc Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn/MANIFEST-000410: OK
+2024/01/11-01:04:05.488 4bbc **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn; recovered 2 files; 1374524 bytes. Some data may have been lost. ****

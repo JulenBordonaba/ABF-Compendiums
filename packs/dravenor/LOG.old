@@ -1,5 +1,7 @@
-2023/11/12-16:30:36.049 6f8c Delete type=3 #1
-2023/11/12-16:34:42.709 618c Level-0 table #267: started
-2023/11/12-16:34:42.709 618c Level-0 table #267: 0 bytes OK
-2023/11/12-16:34:42.713 618c Delete type=0 #265
-2023/11/12-16:34:42.714 618c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2024/01/11-01:04:05.847 4cb8 Log #269: 0 ops saved to Table #407 OK
+2024/01/11-01:04:05.847 4cb8 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dravenor/000269.log: OK
+2024/01/11-01:04:05.848 4cb8 Log #406: 0 ops saved to Table #408 OK
+2024/01/11-01:04:05.848 4cb8 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dravenor/000406.log: OK
+2024/01/11-01:04:05.904 4cb8 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dravenor/MANIFEST-000268: OK
+2024/01/11-01:04:05.906 4cb8 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dravenor/MANIFEST-000405: OK
+2024/01/11-01:04:05.962 4cb8 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dravenor; recovered 0 files; 0 bytes. Some data may have been lost. ****
