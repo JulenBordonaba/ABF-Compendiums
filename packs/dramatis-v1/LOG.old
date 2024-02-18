@@ -1,8 +1,3 @@
-2024/01/11-01:04:04.289 4bbc Log #269: 0 ops saved to Table #407 OK
-2024/01/11-01:04:04.289 4bbc Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v1/000269.log: OK
-2024/01/11-01:04:04.343 4bbc Log #406: 21 ops saved to Table #408 OK
-2024/01/11-01:04:04.343 4bbc Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v1/000406.log: OK
-2024/01/11-01:04:04.344 4bbc Table #408: 21 entries OK
-2024/01/11-01:04:04.394 4bbc Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v1/MANIFEST-000268: OK
-2024/01/11-01:04:04.395 4bbc Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v1/MANIFEST-000405: OK
-2024/01/11-01:04:04.446 4bbc **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v1; recovered 1 files; 67436 bytes. Some data may have been lost. ****
+2024/02/18-01:28:44.647 41dc Recovering log #509
+2024/02/18-01:28:44.745 41dc Delete type=0 #509
+2024/02/18-01:28:44.746 41dc Delete type=3 #508
