@@ -1,3 +1,6 @@
-2024/02/18-01:28:45.242 41dc Recovering log #515
-2024/02/18-01:28:45.344 41dc Delete type=0 #515
-2024/02/18-01:28:45.344 41dc Delete type=3 #514
+2025/02/09-20:24:10.264323 7fceca7fc700 Log #644: 8 ops saved to Table #647 OK
+2025/02/09-20:24:10.264389 7fceca7fc700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/lqccn/000644.log: OK
+2025/02/09-20:24:10.267692 7fceca7fc700 Table #645: 243 entries OK
+2025/02/09-20:24:10.269710 7fceca7fc700 Table #646: 338 entries OK
+2025/02/09-20:24:10.270005 7fceca7fc700 Table #647: 8 entries OK
+2025/02/09-20:24:10.271829 7fceca7fc700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/lqccn; recovered 3 files; 2880150 bytes. Some data may have been lost. ****

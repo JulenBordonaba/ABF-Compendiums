@@ -1,3 +1,4 @@
-2024/02/18-01:28:45.479 41dc Recovering log #506
-2024/02/18-01:28:45.586 41dc Delete type=0 #506
-2024/02/18-01:28:45.586 41dc Delete type=3 #505
+2025/02/09-20:24:10.301758 7fcec9ffb700 Log #510: 0 ops saved to Table #511 OK
+2025/02/09-20:24:10.301793 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dravenor/000510.log: OK
+2025/02/09-20:24:10.301843 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dravenor/MANIFEST-000509: OK
+2025/02/09-20:24:10.303460 7fcec9ffb700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dravenor; recovered 0 files; 0 bytes. Some data may have been lost. ****

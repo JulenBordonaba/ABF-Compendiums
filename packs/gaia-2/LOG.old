@@ -1,3 +1,4 @@
-2024/02/18-01:28:45.118 4384 Recovering log #506
-2024/02/18-01:28:45.237 4384 Delete type=0 #506
-2024/02/18-01:28:45.237 4384 Delete type=3 #505
+2025/02/09-20:24:10.249025 7fcec9ffb700 Log #510: 0 ops saved to Table #511 OK
+2025/02/09-20:24:10.249056 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/gaia-2/000510.log: OK
+2025/02/09-20:24:10.249098 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/gaia-2/MANIFEST-000509: OK
+2025/02/09-20:24:10.250877 7fcec9ffb700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/gaia-2; recovered 0 files; 0 bytes. Some data may have been lost. ****

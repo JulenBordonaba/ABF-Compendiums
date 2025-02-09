@@ -1,3 +1,5 @@
-2024/02/18-01:28:44.518 4384 Recovering log #512
-2024/02/18-01:28:44.635 4384 Delete type=0 #512
-2024/02/18-01:28:44.636 4384 Delete type=3 #511
+2025/02/09-20:24:10.197786 7fcec97fa700 Log #516: 0 ops saved to Table #517 OK
+2025/02/09-20:24:10.197823 7fcec97fa700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/core-exxet/000516.log: OK
+2025/02/09-20:24:10.198889 7fcec97fa700 Table #508: 181 entries OK
+2025/02/09-20:24:10.198952 7fcec97fa700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/core-exxet/MANIFEST-000515: OK
+2025/02/09-20:24:10.200671 7fcec97fa700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/core-exxet; recovered 1 files; 370300 bytes. Some data may have been lost. ****

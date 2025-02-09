@@ -2,10 +2,6 @@
 	"name": "abf-compendiums",
 	"title": "ABF Compendiums",
 	"version": "1.0.5",
-	"compatibility": {
-		"minimum": "0.8.8",
-		"verified": "11"
-	},
 	"authors": [
 		{
 			"name": "Julen Bordonaba"
@@ -94,13 +90,13 @@
 				"type": "system",
 				"manifest": "https://raw.githubusercontent.com/AnimaBeyondDevelop/AnimaBeyondFoundry/main/src/system.json",
 				"compatibility": {
-					"verified": "1.15.1"
+					"verified": "1.19.5"
 				}
 			}
 		]
 	},
 	"minimumCoreVersion": "0.8.8",
-	"compatibleCoreVersion": "9",
+	"compatibleCoreVersion": "12",
 	"system": [ "animabf" ],
 	"url": "https://github.com/JulenBordonaba/ABF-Compendiums",
 	"manifest": "https://github.com/JulenBordonaba/ABF-Compendiums/releases/latest/download/module.json",

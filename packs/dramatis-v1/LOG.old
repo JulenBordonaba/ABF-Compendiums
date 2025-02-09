@@ -1,3 +1,5 @@
-2024/02/18-01:28:44.647 41dc Recovering log #509
-2024/02/18-01:28:44.745 41dc Delete type=0 #509
-2024/02/18-01:28:44.746 41dc Delete type=3 #508
+2025/02/09-20:24:10.212436 7fcec9ffb700 Log #513: 0 ops saved to Table #514 OK
+2025/02/09-20:24:10.212474 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dramatis-v1/000513.log: OK
+2025/02/09-20:24:10.212569 7fcec9ffb700 Table #505: 17 entries OK
+2025/02/09-20:24:10.212624 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dramatis-v1/MANIFEST-000512: OK
+2025/02/09-20:24:10.215096 7fcec9ffb700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dramatis-v1; recovered 1 files; 37279 bytes. Some data may have been lost. ****

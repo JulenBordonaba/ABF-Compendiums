@@ -1,3 +1,4 @@
-2024/02/18-01:28:45.596 4384 Recovering log #506
-2024/02/18-01:28:45.702 4384 Delete type=0 #506
-2024/02/18-01:28:45.702 4384 Delete type=3 #505
+2025/02/09-20:24:10.312181 7fceca7fc700 Log #510: 0 ops saved to Table #511 OK
+2025/02/09-20:24:10.312219 7fceca7fc700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/unclassified/000510.log: OK
+2025/02/09-20:24:10.312271 7fceca7fc700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/unclassified/MANIFEST-000509: OK
+2025/02/09-20:24:10.313864 7fceca7fc700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/unclassified; recovered 0 files; 0 bytes. Some data may have been lost. ****

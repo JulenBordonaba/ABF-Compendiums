@@ -1,3 +1,5 @@
-2024/02/18-01:28:45.360 4384 Recovering log #512
-2024/02/18-01:28:45.470 4384 Delete type=0 #512
-2024/02/18-01:28:45.470 4384 Delete type=3 #511
+2025/02/09-20:24:10.290640 7fcec97fa700 Log #516: 0 ops saved to Table #517 OK
+2025/02/09-20:24:10.290679 7fcec97fa700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/pwg/000516.log: OK
+2025/02/09-20:24:10.290765 7fcec97fa700 Table #508: 9 entries OK
+2025/02/09-20:24:10.290820 7fcec97fa700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/pwg/MANIFEST-000515: OK
+2025/02/09-20:24:10.292924 7fcec97fa700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/pwg; recovered 1 files; 29569 bytes. Some data may have been lost. ****
