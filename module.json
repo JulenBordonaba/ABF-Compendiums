@@ -80,11 +80,26 @@
 			"type": "Actor"
 		},
 		{
+			"name": "Complementos Web",
+			"label": "(ES) Complementos Web",
+			"system": "animabf",
+			"path": "./packs/complementos-web.db",
+			"type": "Actor"
+		},
+		{
 			"name": "Unclassified",
 			"label": "(ES) Unclassified",
 			"system": "animabf",
 			"path": "./packs/unclassified.db",
 			"type": "Actor"
+		}
+	],
+	"packFolders": [
+		{
+			"name": "ABF Compendiums",
+			"sorting": "m",
+			"color": "#000000",
+			"packs": [ "Core Exxet", "Dramatis Personae 1", "Dramatis Personae 2", "Gaia 1", "Gaia 2", "LQCCN", "PWG", "Dravenor", "Complementos Web", "Unclassified" ]
 		}
 	],
 	"relationships": {
@@ -99,8 +114,6 @@
 			}
 		]
 	},
-	"minimumCoreVersion": "0.8.8",
-	"compatibleCoreVersion": "9",
 	"system": [ "animabf" ],
 	"url": "https://github.com/JulenBordonaba/ABF-Compendiums",
 	"manifest": "https://github.com/JulenBordonaba/ABF-Compendiums/releases/latest/download/module.json",
