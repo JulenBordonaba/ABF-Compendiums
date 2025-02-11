@@ -1,5 +1,6 @@
-2025/02/09-20:24:10.290640 7fcec97fa700 Log #516: 0 ops saved to Table #517 OK
-2025/02/09-20:24:10.290679 7fcec97fa700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/pwg/000516.log: OK
-2025/02/09-20:24:10.290765 7fcec97fa700 Table #508: 9 entries OK
-2025/02/09-20:24:10.290820 7fcec97fa700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/pwg/MANIFEST-000515: OK
-2025/02/09-20:24:10.292924 7fcec97fa700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/pwg; recovered 1 files; 29569 bytes. Some data may have been lost. ****
+2025/02/11-13:30:33.915 4b30 Log #519: 9 ops saved to Table #520 OK
+2025/02/11-13:30:33.916 4b30 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\pwg/000519.log: OK
+2025/02/11-13:30:33.917 4b30 Table #508: 9 entries OK
+2025/02/11-13:30:33.917 4b30 Table #520: 9 entries OK
+2025/02/11-13:30:33.979 4b30 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\pwg/MANIFEST-000518: OK
+2025/02/11-13:30:34.052 4b30 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\pwg; recovered 2 files; 60093 bytes. Some data may have been lost. ****

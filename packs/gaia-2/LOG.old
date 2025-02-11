@@ -1,4 +1,4 @@
-2025/02/09-20:24:10.249025 7fcec9ffb700 Log #510: 0 ops saved to Table #511 OK
-2025/02/09-20:24:10.249056 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/gaia-2/000510.log: OK
-2025/02/09-20:24:10.249098 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/gaia-2/MANIFEST-000509: OK
-2025/02/09-20:24:10.250877 7fcec9ffb700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/gaia-2; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/02/11-13:30:33.388 4b30 Log #513: 0 ops saved to Table #514 OK
+2025/02/11-13:30:33.389 4b30 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\gaia-2/000513.log: OK
+2025/02/11-13:30:33.446 4b30 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\gaia-2/MANIFEST-000512: OK
+2025/02/11-13:30:33.506 4b30 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\gaia-2; recovered 0 files; 0 bytes. Some data may have been lost. ****

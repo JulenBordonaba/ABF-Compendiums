@@ -1,4 +1,4 @@
-2025/02/09-20:24:10.312181 7fceca7fc700 Log #510: 0 ops saved to Table #511 OK
-2025/02/09-20:24:10.312219 7fceca7fc700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/unclassified/000510.log: OK
-2025/02/09-20:24:10.312271 7fceca7fc700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/unclassified/MANIFEST-000509: OK
-2025/02/09-20:24:10.313864 7fceca7fc700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/unclassified; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/02/11-13:30:34.406 4120 Log #513: 0 ops saved to Table #514 OK
+2025/02/11-13:30:34.407 4120 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\unclassified/000513.log: OK
+2025/02/11-13:30:34.454 4120 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\unclassified/MANIFEST-000512: OK
+2025/02/11-13:30:34.515 4120 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\unclassified; recovered 0 files; 0 bytes. Some data may have been lost. ****

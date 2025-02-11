@@ -1,4 +1,4 @@
-2025/02/09-20:24:10.301758 7fcec9ffb700 Log #510: 0 ops saved to Table #511 OK
-2025/02/09-20:24:10.301793 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dravenor/000510.log: OK
-2025/02/09-20:24:10.301843 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dravenor/MANIFEST-000509: OK
-2025/02/09-20:24:10.303460 7fcec9ffb700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dravenor; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/02/11-13:30:34.178 222c Log #513: 0 ops saved to Table #514 OK
+2025/02/11-13:30:34.178 222c Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dravenor/000513.log: OK
+2025/02/11-13:30:34.229 222c Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dravenor/MANIFEST-000512: OK
+2025/02/11-13:30:34.273 222c **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dravenor; recovered 0 files; 0 bytes. Some data may have been lost. ****

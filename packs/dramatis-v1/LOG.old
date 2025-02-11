@@ -1,5 +1,6 @@
-2025/02/09-20:24:10.212436 7fcec9ffb700 Log #513: 0 ops saved to Table #514 OK
-2025/02/09-20:24:10.212474 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dramatis-v1/000513.log: OK
-2025/02/09-20:24:10.212569 7fcec9ffb700 Table #505: 17 entries OK
-2025/02/09-20:24:10.212624 7fcec9ffb700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dramatis-v1/MANIFEST-000512: OK
-2025/02/09-20:24:10.215096 7fcec9ffb700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dramatis-v1; recovered 1 files; 37279 bytes. Some data may have been lost. ****
+2025/02/11-13:30:32.531 4b30 Log #516: 17 ops saved to Table #517 OK
+2025/02/11-13:30:32.532 4b30 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v1/000516.log: OK
+2025/02/11-13:30:32.532 4b30 Table #505: 17 entries OK
+2025/02/11-13:30:32.532 4b30 Table #517: 17 entries OK
+2025/02/11-13:30:32.579 4b30 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v1/MANIFEST-000515: OK
+2025/02/11-13:30:32.651 4b30 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v1; recovered 2 files; 75376 bytes. Some data may have been lost. ****
