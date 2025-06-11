@@ -1,6 +1,6 @@
-2025/02/11-13:30:32.248 4814 Log #519: 175 ops saved to Table #520 OK
-2025/02/11-13:30:32.250 4814 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet/000519.log: OK
-2025/02/11-13:30:32.252 4814 Table #508: 181 entries OK
-2025/02/11-13:30:32.254 4814 Table #520: 175 entries OK
-2025/02/11-13:30:32.313 4814 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet/MANIFEST-000518: OK
-2025/02/11-13:30:32.373 4814 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet; recovered 2 files; 772184 bytes. Some data may have been lost. ****
+2025/06/11-19:17:38.601 60a0 Log #522: 0 ops saved to Table #523 OK
+2025/06/11-19:17:38.602 60a0 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet/000522.log: OK
+2025/06/11-19:17:38.603 60a0 Table #508: 181 entries OK
+2025/06/11-19:17:38.605 60a0 Table #520: 175 entries OK
+2025/06/11-19:17:38.608 60a0 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet/MANIFEST-000521: OK
+2025/06/11-19:17:38.610 60a0 **** Repaired leveldb C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet; recovered 2 files; 772184 bytes. Some data may have been lost. ****

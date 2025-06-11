@@ -1,6 +1,6 @@
-2025/02/11-13:30:33.915 4b30 Log #519: 9 ops saved to Table #520 OK
-2025/02/11-13:30:33.916 4b30 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\pwg/000519.log: OK
-2025/02/11-13:30:33.917 4b30 Table #508: 9 entries OK
-2025/02/11-13:30:33.917 4b30 Table #520: 9 entries OK
-2025/02/11-13:30:33.979 4b30 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\pwg/MANIFEST-000518: OK
-2025/02/11-13:30:34.052 4b30 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\pwg; recovered 2 files; 60093 bytes. Some data may have been lost. ****
+2025/06/11-19:17:38.751 60a0 Log #522: 0 ops saved to Table #523 OK
+2025/06/11-19:17:38.753 60a0 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\pwg/000522.log: OK
+2025/06/11-19:17:38.753 60a0 Table #508: 9 entries OK
+2025/06/11-19:17:38.753 60a0 Table #520: 9 entries OK
+2025/06/11-19:17:38.755 60a0 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\pwg/MANIFEST-000521: OK
+2025/06/11-19:17:38.757 60a0 **** Repaired leveldb C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\pwg; recovered 2 files; 60093 bytes. Some data may have been lost. ****

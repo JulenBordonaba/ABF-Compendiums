@@ -1,6 +1,6 @@
-2025/02/11-13:30:32.888 4120 Log #519: 36 ops saved to Table #520 OK
-2025/02/11-13:30:32.889 4120 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v2/000519.log: OK
-2025/02/11-13:30:32.890 4120 Table #508: 36 entries OK
-2025/02/11-13:30:32.891 4120 Table #520: 36 entries OK
-2025/02/11-13:30:32.938 4120 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v2/MANIFEST-000518: OK
-2025/02/11-13:30:32.999 4120 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v2; recovered 2 files; 186229 bytes. Some data may have been lost. ****
+2025/06/11-19:17:38.650 5088 Log #522: 0 ops saved to Table #523 OK
+2025/06/11-19:17:38.650 5088 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v2/000522.log: OK
+2025/06/11-19:17:38.651 5088 Table #508: 36 entries OK
+2025/06/11-19:17:38.651 5088 Table #520: 36 entries OK
+2025/06/11-19:17:38.654 5088 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v2/MANIFEST-000521: OK
+2025/06/11-19:17:38.656 5088 **** Repaired leveldb C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v2; recovered 2 files; 186229 bytes. Some data may have been lost. ****

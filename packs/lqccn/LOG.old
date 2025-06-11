@@ -1,7 +1,6 @@
-2025/02/11-13:30:33.627 4120 Log #649: 0 ops saved to Table #650 OK
-2025/02/11-13:30:33.627 4120 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn/000649.log: OK
-2025/02/11-13:30:33.632 4120 Table #645: 243 entries OK
-2025/02/11-13:30:33.635 4120 Table #646: 338 entries OK
-2025/02/11-13:30:33.636 4120 Table #647: 8 entries OK
-2025/02/11-13:30:33.696 4120 Archiving E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn/MANIFEST-000648: OK
-2025/02/11-13:30:33.757 4120 **** Repaired leveldb E:\ISO\Rol\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn; recovered 3 files; 2880150 bytes. Some data may have been lost. ****
+2025/06/11-19:17:38.718 5088 Log #652: 61 ops saved to Table #654 OK
+2025/06/11-19:17:38.719 5088 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn/000652.log: OK
+2025/06/11-19:17:38.721 5088 Table #653: 338 entries OK
+2025/06/11-19:17:38.726 5088 Table #654: 61 entries OK
+2025/06/11-19:17:38.728 5088 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn/MANIFEST-000651: OK
+2025/06/11-19:17:38.730 5088 **** Repaired leveldb C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn; recovered 2 files; 1530482 bytes. Some data may have been lost. ****
