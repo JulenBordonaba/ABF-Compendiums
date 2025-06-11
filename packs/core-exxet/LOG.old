@@ -1,6 +1,12 @@
-2025/06/11-19:17:38.601 60a0 Log #522: 0 ops saved to Table #523 OK
-2025/06/11-19:17:38.602 60a0 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet/000522.log: OK
-2025/06/11-19:17:38.603 60a0 Table #508: 181 entries OK
-2025/06/11-19:17:38.605 60a0 Table #520: 175 entries OK
-2025/06/11-19:17:38.608 60a0 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet/MANIFEST-000521: OK
-2025/06/11-19:17:38.610 60a0 **** Repaired leveldb C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\core-exxet; recovered 2 files; 772184 bytes. Some data may have been lost. ****
+2025/06/11-19:17:38.617 60a0 Delete type=3 #1
+2025/06/11-19:26:52.950 57f8 Level-0 table #527: started
+2025/06/11-19:26:52.950 57f8 Level-0 table #527: 0 bytes OK
+2025/06/11-19:26:52.951 57f8 Delete type=0 #525
+2025/06/11-19:26:52.953 57f8 Manual compaction at level-0 from '!actors!0FDGsXWtwqBFx9Cl' @ 72057594037927935 : 1 .. '!folders!sXskJsBFrwu0Zxis' @ 0 : 0; will stop at '!folders!sXskJsBFrwu0Zxis' @ 181 : 1
+2025/06/11-19:26:52.953 57f8 Compacting 2@0 + 0@1 files
+2025/06/11-19:26:52.961 57f8 Generated table #528@0: 181 keys, 404103 bytes
+2025/06/11-19:26:52.961 57f8 Compacted 2@0 + 0@1 files => 404103 bytes
+2025/06/11-19:26:52.962 57f8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/06/11-19:26:52.962 57f8 Delete type=2 #508
+2025/06/11-19:26:52.962 57f8 Delete type=2 #520
+2025/06/11-19:26:52.964 57f8 Manual compaction at level-0 from '!folders!sXskJsBFrwu0Zxis' @ 181 : 1 .. '!folders!sXskJsBFrwu0Zxis' @ 0 : 0; will stop at (end)

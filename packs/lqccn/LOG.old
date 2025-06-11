@@ -1,6 +1,11 @@
-2025/06/11-19:17:38.718 5088 Log #652: 61 ops saved to Table #654 OK
-2025/06/11-19:17:38.719 5088 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn/000652.log: OK
-2025/06/11-19:17:38.721 5088 Table #653: 338 entries OK
-2025/06/11-19:17:38.726 5088 Table #654: 61 entries OK
-2025/06/11-19:17:38.728 5088 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn/MANIFEST-000651: OK
-2025/06/11-19:17:38.730 5088 **** Repaired leveldb C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\lqccn; recovered 2 files; 1530482 bytes. Some data may have been lost. ****
+2025/06/11-19:17:38.736 5088 Delete type=3 #1
+2025/06/11-19:17:39.280 57f8 Compacting 2@0 + 0@1 files
+2025/06/11-19:17:39.298 57f8 Generated table #657@0: 347 keys, 935213 bytes
+2025/06/11-19:17:39.298 57f8 Compacted 2@0 + 0@1 files => 935213 bytes
+2025/06/11-19:17:39.299 57f8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/06/11-19:17:39.299 57f8 Delete type=2 #653
+2025/06/11-19:17:39.299 57f8 Delete type=2 #654
+2025/06/11-19:26:52.991 57f8 Level-0 table #659: started
+2025/06/11-19:26:52.991 57f8 Level-0 table #659: 0 bytes OK
+2025/06/11-19:26:52.992 57f8 Delete type=0 #656
+2025/06/11-19:26:52.994 57f8 Manual compaction at level-0 from '!actors!13mz7iAH77gi8EgG' @ 72057594037927935 : 1 .. '!folders!xl8vlcpAcvAgvEkH' @ 0 : 0; will stop at (end)

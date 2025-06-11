@@ -1,6 +1,13 @@
-2025/06/11-19:17:38.650 5088 Log #522: 0 ops saved to Table #523 OK
-2025/06/11-19:17:38.650 5088 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v2/000522.log: OK
-2025/06/11-19:17:38.651 5088 Table #508: 36 entries OK
-2025/06/11-19:17:38.651 5088 Table #520: 36 entries OK
-2025/06/11-19:17:38.654 5088 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v2/MANIFEST-000521: OK
-2025/06/11-19:17:38.656 5088 **** Repaired leveldb C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\dramatis-v2; recovered 2 files; 186229 bytes. Some data may have been lost. ****
+2025/06/11-19:17:38.661 5088 Delete type=3 #1
+2025/06/11-19:26:52.969 57f8 Level-0 table #527: started
+2025/06/11-19:26:52.971 57f8 Level-0 table #527: 56477 bytes OK
+2025/06/11-19:26:52.972 57f8 Delete type=0 #525
+2025/06/11-19:26:52.985 57f8 Manual compaction at level-0 from '!actors!5WwQape6Lt3rDFfM' @ 72057594037927935 : 1 .. '!actors.items!oTde7piXA9TFV9jI.rvye3Q6cyne9xkDr' @ 0 : 0; will stop at '!actors.items!oTde7piXA9TFV9jI.rvye3Q6cyne9xkDr' @ 30 : 1
+2025/06/11-19:26:52.985 57f8 Compacting 3@0 + 0@1 files
+2025/06/11-19:26:52.989 57f8 Generated table #528@0: 36 keys, 95893 bytes
+2025/06/11-19:26:52.989 57f8 Compacted 3@0 + 0@1 files => 95893 bytes
+2025/06/11-19:26:52.990 57f8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/06/11-19:26:52.990 57f8 Delete type=2 #508
+2025/06/11-19:26:52.990 57f8 Delete type=2 #520
+2025/06/11-19:26:52.991 57f8 Delete type=2 #527
+2025/06/11-19:26:52.992 57f8 Manual compaction at level-0 from '!actors.items!oTde7piXA9TFV9jI.rvye3Q6cyne9xkDr' @ 30 : 1 .. '!actors.items!oTde7piXA9TFV9jI.rvye3Q6cyne9xkDr' @ 0 : 0; will stop at (end)

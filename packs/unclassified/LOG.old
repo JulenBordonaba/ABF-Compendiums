@@ -1,4 +1,5 @@
-2025/06/11-19:17:38.785 5088 Log #516: 0 ops saved to Table #517 OK
-2025/06/11-19:17:38.786 5088 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\unclassified/000516.log: OK
-2025/06/11-19:17:38.789 5088 Archiving C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\unclassified/MANIFEST-000515: OK
-2025/06/11-19:17:38.791 5088 **** Repaired leveldb C:\Users\shiry\AppData\Local\FoundryVTT\Data\modules\abf-compendiums\packs\unclassified; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/06/11-19:17:38.795 5088 Delete type=3 #1
+2025/06/11-19:26:52.996 57f8 Level-0 table #521: started
+2025/06/11-19:26:52.996 57f8 Level-0 table #521: 0 bytes OK
+2025/06/11-19:26:52.997 57f8 Delete type=0 #519
+2025/06/11-19:26:53.001 57f8 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
