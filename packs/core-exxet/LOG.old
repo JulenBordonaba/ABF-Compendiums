@@ -1,7 +1,5 @@
-2025/09/17-18:53:50.925 8fc8 Recovering log #909
-2025/09/17-18:53:50.928 8fc8 Delete type=0 #909
-2025/09/17-18:53:50.928 8fc8 Delete type=3 #907
-2025/09/17-19:29:30.579 b4f8 Level-0 table #914: started
-2025/09/17-19:29:30.579 b4f8 Level-0 table #914: 0 bytes OK
-2025/09/17-19:29:30.579 b4f8 Delete type=0 #912
-2025/09/17-19:29:30.579 b4f8 Manual compaction at level-0 from '!actors!0FDGsXWtwqBFx9Cl' @ 72057594037927935 : 1 .. '!folders!sXskJsBFrwu0Zxis' @ 0 : 0; will stop at (end)
+2025/09/23-16:30:39.475476 76410bfff700 Log #917: 0 ops saved to Table #918 OK
+2025/09/23-16:30:39.475635 76410bfff700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/core-exxet/000917.log: OK
+2025/09/23-16:30:39.484725 76410bfff700 Table #858: 181 entries OK
+2025/09/23-16:30:39.485437 76410bfff700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/core-exxet/MANIFEST-000915: OK
+2025/09/23-16:30:39.488118 76410bfff700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/core-exxet; recovered 1 files; 422128 bytes. Some data may have been lost. ****

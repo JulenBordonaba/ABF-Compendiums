@@ -1,7 +1,5 @@
-2025/09/17-18:53:50.956 399c Recovering log #909
-2025/09/17-18:53:50.958 399c Delete type=0 #909
-2025/09/17-18:53:50.958 399c Delete type=3 #907
-2025/09/17-19:29:30.596 b4f8 Level-0 table #914: started
-2025/09/17-19:29:30.596 b4f8 Level-0 table #914: 0 bytes OK
-2025/09/17-19:29:30.596 b4f8 Delete type=0 #912
-2025/09/17-19:29:30.596 b4f8 Manual compaction at level-0 from '!actors!1r6l18fwRvl4P9V3' @ 72057594037927935 : 1 .. '!folders!uk7TYrhi3SUxqhq5' @ 0 : 0; will stop at (end)
+2025/09/23-16:30:39.562573 76410b7fe700 Log #917: 0 ops saved to Table #918 OK
+2025/09/23-16:30:39.563021 76410b7fe700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/gaia-1/000917.log: OK
+2025/09/23-16:30:39.564681 76410b7fe700 Table #552: 65 entries OK
+2025/09/23-16:30:39.564801 76410b7fe700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/gaia-1/MANIFEST-000915: OK
+2025/09/23-16:30:39.566690 76410b7fe700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/gaia-1; recovered 1 files; 129117 bytes. Some data may have been lost. ****

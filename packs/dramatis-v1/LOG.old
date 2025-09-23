@@ -1,7 +1,5 @@
-2025/09/17-18:53:50.936 a7cc Recovering log #904
-2025/09/17-18:53:50.940 a7cc Delete type=0 #904
-2025/09/17-18:53:50.940 a7cc Delete type=3 #902
-2025/09/17-19:29:30.587 b4f8 Level-0 table #909: started
-2025/09/17-19:29:30.587 b4f8 Level-0 table #909: 0 bytes OK
-2025/09/17-19:29:30.587 b4f8 Delete type=0 #907
-2025/09/17-19:29:30.587 b4f8 Manual compaction at level-0 from '!actors!m5kMiooqTP0DCegx' @ 72057594037927935 : 1 .. '!actors.items!zF8MKzLtaVwx0WcM.zK2OEtSEtfVvUutp' @ 0 : 0; will stop at (end)
+2025/09/23-16:30:39.514717 76410b7fe700 Log #912: 0 ops saved to Table #913 OK
+2025/09/23-16:30:39.515291 76410b7fe700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dramatis-v1/000912.log: OK
+2025/09/23-16:30:39.516151 76410b7fe700 Table #547: 31 entries OK
+2025/09/23-16:30:39.517610 76410b7fe700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dramatis-v1/MANIFEST-000910: OK
+2025/09/23-16:30:39.520137 76410b7fe700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/dramatis-v1; recovered 1 files; 63795 bytes. Some data may have been lost. ****

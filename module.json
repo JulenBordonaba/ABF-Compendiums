@@ -1,7 +1,7 @@
 {
 	"id": "abf-compendiums",
 	"title": "ABF Compendiums",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"authors": [
 		{
 			"name": "Julen Bordonaba"
@@ -14,8 +14,8 @@
 		}
 	],
 	"compatibility": {
-		"minimum": "13",
-		"verified": "13"
+		"minimum": "12",
+		"verified": "13.348"
 	},
 	"description": "Module for Foundry VTT adding utils for ABF system",
 	"languages": [

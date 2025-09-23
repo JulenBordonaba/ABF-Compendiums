@@ -1,7 +1,5 @@
-2025/09/17-18:53:50.972 a7cc Recovering log #1041
-2025/09/17-18:53:50.975 a7cc Delete type=0 #1041
-2025/09/17-18:53:50.975 a7cc Delete type=3 #1039
-2025/09/17-19:29:30.587 b4f8 Level-0 table #1046: started
-2025/09/17-19:29:30.587 b4f8 Level-0 table #1046: 0 bytes OK
-2025/09/17-19:29:30.587 b4f8 Delete type=0 #1044
-2025/09/17-19:29:30.587 b4f8 Manual compaction at level-0 from '!actors!13mz7iAH77gi8EgG' @ 72057594037927935 : 1 .. '!folders!xl8vlcpAcvAgvEkH' @ 0 : 0; will stop at (end)
+2025/09/23-16:30:39.597733 76410a7fc700 Log #1049: 0 ops saved to Table #1050 OK
+2025/09/23-16:30:39.597784 76410a7fc700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/lqccn/001049.log: OK
+2025/09/23-16:30:39.619574 76410a7fc700 Table #966: 347 entries OK
+2025/09/23-16:30:39.619821 76410a7fc700 Archiving /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/lqccn/MANIFEST-001047: OK
+2025/09/23-16:30:39.622151 76410a7fc700 **** Repaired leveldb /home/julenbordonaba/foundrydata/Data/modules/abf-compendiums/packs/lqccn; recovered 1 files; 954752 bytes. Some data may have been lost. ****
